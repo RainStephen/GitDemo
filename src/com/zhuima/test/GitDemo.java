@@ -12,7 +12,7 @@ public class GitDemo {
 		System.out.println("本地改动1");
 		System.out.println("本地改动222");
 		System.out.println("本地改动223");
-		System.out.println("第15行电脑端------冲突代码");
+		System.out.println("第15行远程------冲突代码");
 	}
 
 }
